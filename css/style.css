@@ -502,15 +502,15 @@ a:focus {
 }
 
 .contact_section input:-ms-input-placeholder {
-  color: #000;
+  color: #3eff3f;
 }
 
 .contact_section input::-ms-input-placeholder {
-  color: #000;
+  color: #3eff3f;
 }
 
 .contact_section input::placeholder {
-  color: #000;
+  color: #3eff3f;
 }
 
 .contact_section input {
